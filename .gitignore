@@ -1,0 +1,9 @@
+*.db
+*.suo
+*.ipch
+*.obj
+*.tlog
+*.pdb
+*.log
+*.idb
+*.dll
